@@ -1,3 +1,3 @@
 # Hello LA Hacks!
 
-More text. Lorem ipsum.
+To be or not to be.
